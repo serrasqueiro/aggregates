@@ -7,3 +7,6 @@
 [submodule "urllib3"]
 	path = urllib3
 	url = git://github.com/urllib3/urllib3.git
+[submodule "python-samples"]
+	path = python-samples
+	url = git@github.com:serrasqueiro/python-samples.git
