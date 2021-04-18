@@ -1,0 +1,6 @@
+[submodule "gdata-python-client"]
+	path = gdata-python-client
+	url = https://github.com/google/gdata-python-client
+[submodule "gdata-python3"]
+	path = gdata-python3
+	url = https://github.com/dvska/gdata-python3.git
