@@ -10,3 +10,6 @@
 [submodule "python-samples"]
 	path = python-samples
 	url = git@github.com:serrasqueiro/python-samples.git
+[submodule "pigz"]
+	path = pigz
+	url = git@github.com:serrasqueiro/pigz.git
