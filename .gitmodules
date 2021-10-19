@@ -13,3 +13,6 @@
 [submodule "pigz"]
 	path = pigz
 	url = git@github.com:serrasqueiro/pigz.git
+[submodule "pylint"]
+	path = pylint
+	url = git@github.com:serrasqueiro/pylint.git
