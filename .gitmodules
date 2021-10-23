@@ -16,3 +16,6 @@
 [submodule "pylint"]
 	path = pylint
 	url = git@github.com:serrasqueiro/pylint.git
+[submodule "ggle/libphonenumber"]
+	path = ggle/libphonenumber
+	url = git@github.com:serrasqueiro/libphonenumber.git
