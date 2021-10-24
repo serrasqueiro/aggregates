@@ -19,3 +19,6 @@
 [submodule "ggle/libphonenumber"]
 	path = ggle/libphonenumber
 	url = git@github.com:serrasqueiro/libphonenumber.git
+[submodule "multixml"]
+	path = multixml
+	url = git@github.com:serrasqueiro/multixml.git

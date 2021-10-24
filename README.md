@@ -9,7 +9,10 @@ Aggregate of other public repositories
    + append with `--recursive` if you are in a hurry,
    + or the module name, e.g. `ggle/libphonenumber`, if you need a particular sub-module.
 1. Checkout all modules
-   + `git submodule foreach --recursive git checkout master`
+   + to ensure everything is in _master_ branch:
+     - `git submodule foreach --recursive git checkout master`
+   + or, better, if you are standing with your old checked-out repo, also get updates:
+     - `git submodule foreach --recursive "(git checkout master; git pull)"`
 
 ## Special notes
 
