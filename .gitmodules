@@ -6,7 +6,7 @@
 	url = https://github.com/dvska/gdata-python3.git
 [submodule "urllib3"]
 	path = urllib3
-	url = git://github.com/serrasqueiro/urllib3.git
+	url = git@github.com:serrasqueiro/urllib3.git
 [submodule "python-samples"]
 	path = python-samples
 	url = git@github.com:serrasqueiro/python-samples.git
