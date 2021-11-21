@@ -16,4 +16,10 @@ Aggregate of other public repositories
 
 ## Special notes
 
+### urllib3 fork
 * urllib3 fork is just a fork to keep _master_ as the main branch.
+
+### pyang fork
+* pyang fork, do:
+  + `git submodule foreach '[[ ! $sm_path = pyang ]] || git remote add upstream git@github.com:mbj4668/pyang.git'`
+  + and: `git submodule foreach '[[ ! $sm_path = pyang ]] || git checkout new/ietf_no_41'`

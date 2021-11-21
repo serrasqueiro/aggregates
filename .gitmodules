@@ -22,3 +22,6 @@
 [submodule "multixml"]
 	path = multixml
 	url = git@github.com:serrasqueiro/multixml.git
+[submodule "pyang"]
+	path = pyang
+	url = git@github.com:serrasqueiro/pyang.git
