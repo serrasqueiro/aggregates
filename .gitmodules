@@ -25,3 +25,6 @@
 [submodule "pyang"]
 	path = pyang
 	url = git@github.com:serrasqueiro/pyang.git
+[submodule "OpenROADM_MSA_Public"]
+	path = OpenROADM_MSA_Public
+	url = git@github.com:serrasqueiro/OpenROADM_MSA_Public.git
