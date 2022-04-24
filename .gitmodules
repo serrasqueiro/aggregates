@@ -28,3 +28,9 @@
 [submodule "OpenROADM_MSA_Public"]
 	path = OpenROADM_MSA_Public
 	url = git@github.com:serrasqueiro/OpenROADM_MSA_Public.git
+[submodule "CueParser"]
+	path = CueParser
+	url = git@github.com:serrasqueiro/CueParser.git
+[submodule "xmltodict"]
+	path = xmltodict
+	url = git@github.com:serrasqueiro/xmltodict.git
