@@ -6,31 +6,31 @@
 	url = https://github.com/dvska/gdata-python3.git
 [submodule "urllib3"]
 	path = urllib3
-	url = git@github.com:serrasqueiro/urllib3.git
+	url = ../urllib3.git
 [submodule "python-samples"]
 	path = python-samples
-	url = git@github.com:serrasqueiro/python-samples.git
+	url = ../python-samples.git
 [submodule "pigz"]
 	path = pigz
-	url = git@github.com:serrasqueiro/pigz.git
+	url = ../pigz.git
 [submodule "pylint"]
 	path = pylint
-	url = git@github.com:serrasqueiro/pylint.git
+	url = ../pylint.git
 [submodule "ggle/libphonenumber"]
 	path = ggle/libphonenumber
-	url = git@github.com:serrasqueiro/libphonenumber.git
+	url = ../libphonenumber.git
 [submodule "multixml"]
 	path = multixml
-	url = git@github.com:serrasqueiro/multixml.git
+	url = ../multixml.git
 [submodule "pyang"]
 	path = pyang
-	url = git@github.com:serrasqueiro/pyang.git
+	url = ../pyang.git
 [submodule "OpenROADM_MSA_Public"]
 	path = OpenROADM_MSA_Public
-	url = git@github.com:serrasqueiro/OpenROADM_MSA_Public.git
+	url = ../OpenROADM_MSA_Public.git
 [submodule "CueParser"]
 	path = CueParser
-	url = git@github.com:serrasqueiro/CueParser.git
+	url = ../CueParser.git
 [submodule "xmltodict"]
 	path = xmltodict
-	url = git@github.com:serrasqueiro/xmltodict.git
+	url = ../xmltodict.git
