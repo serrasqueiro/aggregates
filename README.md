@@ -15,6 +15,7 @@ Aggregate of other public repositories
      - `git submodule foreach --recursive "(git checkout master; git pull)"`
 
 ## Special notes
+Note some of submodules have relative paths to github _serrasqueiro_ path.
 
 ### urllib3 fork
 * urllib3 fork is just a fork to keep _master_ as the main branch.
