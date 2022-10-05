@@ -34,3 +34,6 @@
 [submodule "xmltodict"]
 	path = xmltodict
 	url = ../xmltodict.git
+[submodule "beautifulsoup"]
+	path = beautifulsoup
+	url = git@github.com:serrasqueiro/beautifulsoup.git
