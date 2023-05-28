@@ -37,3 +37,9 @@
 [submodule "beautifulsoup"]
 	path = beautifulsoup
 	url = git@github.com:serrasqueiro/beautifulsoup.git
+[submodule "xadrez"]
+	path = xadrez
+	url = ../xadrez
+[submodule "VUPlayer"]
+	path = VUPlayer
+	url = git@github.com:serrasqueiro/VUPlayer.git
