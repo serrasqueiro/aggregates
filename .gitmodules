@@ -43,3 +43,12 @@
 [submodule "VUPlayer"]
 	path = VUPlayer
 	url = git@github.com:serrasqueiro/VUPlayer.git
+[submodule "projects/UnivSchool/legacy-sockets"]
+	path = projects/UnivSchool/legacy-sockets
+	url = git@github.com:UnivSchool/legacy-sockets.git
+[submodule "projects/UnivSchool/reflect5"]
+	path = projects/UnivSchool/reflect5
+	url = git@github.com:UnivSchool/reflect5.git
+[submodule "projects/UnivSchool/rexec"]
+	path = projects/UnivSchool/rexec
+	url = git@github.com:UnivSchool/rexec.git
