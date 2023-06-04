@@ -52,3 +52,6 @@
 [submodule "projects/UnivSchool/rexec"]
 	path = projects/UnivSchool/rexec
 	url = git@github.com:UnivSchool/rexec.git
+[submodule "projects/Laggregator"]
+	path = projects/Laggregator
+	url = ../Laggregator
