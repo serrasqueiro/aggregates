@@ -55,3 +55,6 @@
 [submodule "projects/Laggregator"]
 	path = projects/Laggregator
 	url = ../Laggregator
+[submodule "projects/pylearn"]
+	path = projects/pylearn
+	url = git@github.com:UnivSchool/pylearn.git
