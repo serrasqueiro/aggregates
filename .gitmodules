@@ -58,3 +58,6 @@
 [submodule "projects/pylearn"]
 	path = projects/pylearn
 	url = git@github.com:UnivSchool/pylearn.git
+[submodule "openconfig_public"]
+	path = openconfig_public
+	url = ../openconfig_public.git
