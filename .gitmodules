@@ -67,3 +67,6 @@
 [submodule "bpython"]
 	path = bpython
 	url = ../bpython
+[submodule "python-http-client"]
+	path = python-http-client
+	url = ../python-http-client.git
