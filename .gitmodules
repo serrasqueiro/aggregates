@@ -64,3 +64,6 @@
 [submodule "python-titlecase"]
 	path = python-titlecase
 	url = ../python-titlecase
+[submodule "bpython"]
+	path = bpython
+	url = ../bpython
