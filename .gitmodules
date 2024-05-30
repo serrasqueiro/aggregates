@@ -61,3 +61,6 @@
 [submodule "openconfig_public"]
 	path = openconfig_public
 	url = ../openconfig_public.git
+[submodule "python-titlecase"]
+	path = python-titlecase
+	url = ../python-titlecase
