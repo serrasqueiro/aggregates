@@ -73,3 +73,6 @@
 [submodule "protolint"]
 	path = protolint
 	url = ../protolint.git
+[submodule "protobuf"]
+	path = protobuf
+	url = ../protobuf.git
