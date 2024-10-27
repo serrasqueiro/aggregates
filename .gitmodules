@@ -76,3 +76,6 @@
 [submodule "protobuf"]
 	path = protobuf
 	url = ../protobuf.git
+[submodule "projects/markovify"]
+	path = projects/markovify
+	url = ../markovify.git
