@@ -22,9 +22,6 @@
 [submodule "multixml"]
 	path = multixml
 	url = ../multixml.git
-[submodule "pyang"]
-	path = pyang
-	url = ../pyang.git
 [submodule "OpenROADM_MSA_Public"]
 	path = OpenROADM_MSA_Public
 	url = ../OpenROADM_MSA_Public.git
