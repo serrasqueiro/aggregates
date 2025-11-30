@@ -33,13 +33,13 @@
 	url = ../xmltodict.git
 [submodule "beautifulsoup"]
 	path = beautifulsoup
-	url = git@github.com:serrasqueiro/beautifulsoup.git
+	url = ../beautifulsoup.git
 [submodule "xadrez"]
 	path = xadrez
 	url = ../xadrez
 [submodule "VUPlayer"]
 	path = VUPlayer
-	url = git@github.com:serrasqueiro/VUPlayer.git
+	url = ../VUPlayer.git
 [submodule "projects/UnivSchool/legacy-sockets"]
 	path = projects/UnivSchool/legacy-sockets
 	url = git@github.com:UnivSchool/legacy-sockets.git
@@ -79,3 +79,6 @@
 [submodule "requests"]
 	path = requests
 	url = ../requests.git
+[submodule "idna"]
+	path = idna
+	url = git@github.com:serrasqueiro/idna.git
