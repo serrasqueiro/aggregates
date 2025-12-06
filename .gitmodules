@@ -81,4 +81,4 @@
 	url = ../requests.git
 [submodule "idna"]
 	path = idna
-	url = git@github.com:serrasqueiro/idna.git
+	url = ../idna.git
