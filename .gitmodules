@@ -82,3 +82,6 @@
 [submodule "idna"]
 	path = idna
 	url = ../idna.git
+[submodule "winpy"]
+	path = winpy
+	url = ../winpy.git
