@@ -13,6 +13,8 @@ Aggregate of other public repositories
      - `git submodule foreach --recursive git checkout master`
    + or, better, if you are standing with your old checked-out repo, also get updates:
      - `git submodule foreach --recursive "(git checkout master; git pull)"`
+1. Checkout in case any of submodules makes use of `main` instead of Master:
+   + `it submodule foreach --recursive "(git checkout main || git checkout master)"`
 
 ## Special notes
 Note some of submodules have relative paths to github _serrasqueiro_ path.
@@ -24,3 +26,8 @@ Note some of submodules have relative paths to github _serrasqueiro_ path.
 * pyang fork, do:
   + `git submodule foreach '[[ ! $sm_path = pyang ]] || git remote add upstream git@github.com:mbj4668/pyang.git'`
   + and: `git submodule foreach '[[ ! $sm_path = pyang ]] || git checkout new/ietf_no_41'`
+
+### BeautifulSoup fork
+* do:
+  + `git submodule update --init --recursive beautifulsoup`
+  + `git submodule foreach --recursive "(git checkout master; echo submodule:$sm_path; echo ___)"`
