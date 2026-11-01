@@ -82,3 +82,6 @@
 [submodule "winpy"]
 	path = winpy
 	url = ../winpy.git
+[submodule "mrab-regex"]
+	path = mrab-regex
+	url = ../mrab-regex.git
